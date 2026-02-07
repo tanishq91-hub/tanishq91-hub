@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Tanishq 👋
 
 <p align="center">
@@ -68,4 +67,3 @@
 ---
 
 ⭐ Always learning, always building.
-```
