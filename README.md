@@ -19,7 +19,7 @@
 ### Languages
 - Python  
 - JavaScript  
-- C++
+- Java
 
 ### Machine Learning / Data
 - NumPy  
