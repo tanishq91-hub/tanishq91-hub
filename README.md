@@ -48,15 +48,18 @@
 *(Project links will be updated soon)*
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishq91-hub&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanishq91-hub&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanishq91-hub&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishq91-hub&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishq91-hub&theme=tokyo-night" />
 </p>
 
 ---
